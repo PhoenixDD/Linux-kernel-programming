@@ -1,2 +1,2 @@
 # Description:
-Displays linux slabdata on kernel bootup with slab allocations.
+Inline assembly code in C to copy substring of a string to a variable.

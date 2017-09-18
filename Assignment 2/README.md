@@ -1,2 +1,2 @@
 # Description:
-Display linux processes ID's, parent ID's, Time of creation and process names on bootup.
+Various kernel patches by loading kernel modules in linux and displaying that it works in syslog, patches are coded as C modules.
